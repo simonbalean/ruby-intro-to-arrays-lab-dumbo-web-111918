@@ -15,5 +15,5 @@ def third_element(indexing)
 end
 
 def last_element(indexing)
-  
+  indexing[indexing.size]
 end
