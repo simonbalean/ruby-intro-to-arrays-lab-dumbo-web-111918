@@ -6,4 +6,6 @@ def array_with_two_elements
   Array.new(2)
 end
 
-def 
+def first_element(indexing)
+  array.shift
+end
