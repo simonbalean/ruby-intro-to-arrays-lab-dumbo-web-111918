@@ -19,11 +19,11 @@ def last_element(indexing)
 end
 
 def first_element_with_array_methods(array)
-  array[0]
+  array.first
 end
 
-def last_element_with_array_methods
-  array[(array.size - 1)]
+def last_element_with_array_methods(array)
+  array.last
 end
 
 def length_of_array(array)
