@@ -19,3 +19,4 @@ def last_element(indexing)
 end
 
 first_element_with_array_methods
+last_element_with_array_methods
